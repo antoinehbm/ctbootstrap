@@ -1,0 +1,29 @@
+#header
+{
+    background-color: #999;
+    height: 10vh;
+}
+
+#foto
+{
+    background-color: #efefef;
+    height: 50vh;
+}
+
+#aboutme
+{
+    background-color: #ccc;
+    height: 50vh;
+}
+
+.artikel
+{
+    background-color: #aaa;
+    height: 40vh;
+}
+
+#footer
+{
+    background-color: #333;
+    height: 5vh;
+}

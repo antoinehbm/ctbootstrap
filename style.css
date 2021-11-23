@@ -1,0 +1,38 @@
+#header
+{
+    background-color: #999;
+    height: 10vh;
+}
+
+#foto
+{
+
+}
+
+#foto img
+{
+    border-radius: 300px;
+}
+
+#aboutme
+{
+    
+    vertical-align: middle;
+    align-items: center;
+    align-content: center;
+}
+
+#aboutme p
+{
+
+}
+
+.artikel
+{
+
+}
+
+#footer
+{
+    height: 5vh;
+}
